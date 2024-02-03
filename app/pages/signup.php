@@ -139,7 +139,7 @@
 <main class="form-signin w-100 m-auto">
   <form method="post">
     <a href="home">
-      <img class="mb-4 rounded-circle shadow" src="<?=ROOT?>/assets/images/logo.jpg" alt="" width="92" height="92" style="object-fit: cover;">
+      <img class="mb-4 rounded-circle shadow" src="<?=ROOT?>/assets/images/logo.png" alt="" width="92" height="92" style="object-fit: cover;">
     </a>
     <h1 class="h3 mb-3 fw-normal">Create account</h1>
 
